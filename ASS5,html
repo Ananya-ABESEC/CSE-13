@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div style="display: inline block; width: 100px; height: 100px; background-color: rgb(181, 88, 252);">BOX1<p>ABESEC</p></div>
+        <div style="display: inline block; width: 100px; height: 100px; background-color:rgb(247, 95, 68);">BOX2<p>CSE-13</p></div>
+        <div style="display: inline block; width: 100px; height: 100px; background-color: rgb(255, 145, 0);">BOX3<p>Ananya</p></div>
+    </div>
+</body>
+</html>
