@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <span style="display: flex; justify-content: space-around;">
+        <span style="background-color: aqua;">Box1</span>
+        <span style="background-color: aquamarine;">Box2</span>
+        <span style="background-color: cornflowerblue;">Box3</span>
+    </span>
+</body>
+</html>
